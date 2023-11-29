@@ -19,6 +19,11 @@ Developed a Movies app using Flutter, with a focus on creating a responsive and 
 - Dio package for diverse movie content through API integration
 - BLoC state management within the MVVM model for a stable and organized app
 
+
+## Demo
+
+Watch a video demonstration of the app [here](https://drive.google.com/file/d/1h0W8hor4PqERWUo9jnBfGWGZNpiNvTFN/view?usp=sharing).
+
 ## Getting Started
 
 This project is a Flutter application. Follow the steps below to get started:
@@ -27,7 +32,3 @@ This project is a Flutter application. Follow the steps below to get started:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For detailed information on Flutter development, refer to the [online documentation](https://docs.flutter.dev/), which provides tutorials, samples, and a full API reference.
-
-## Demo
-
-Watch a video demonstration of the app [here](https://drive.google.com/file/d/1h0W8hor4PqERWUo9jnBfGWGZNpiNvTFN/view?usp=sharing).
